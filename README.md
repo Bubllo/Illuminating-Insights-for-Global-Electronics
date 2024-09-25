@@ -3,7 +3,7 @@ conducting a comprehensive Exploratory Data Analysis (EDA) to uncover valuable i
 
 # Dashboard Images
 ## 1. Customer
-  ![Alt Text]([https://raw.githubusercontent.com/your-username/your-repo-name/branch-name/path/to/image.png](https://github.com/Bubllo/Illuminating-Insights-for-Global-Electronics/blob/main/Dashboard%20Design/1.png))
+  <img src = "Dashboard Design/1.png">
 
 
 
