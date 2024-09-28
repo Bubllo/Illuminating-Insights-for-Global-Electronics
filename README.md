@@ -9,6 +9,7 @@ conducting a comprehensive Exploratory Data Analysis (EDA) to uncover valuable i
   <img src="Dashboard Design/2.png">
 
   ## 3. Sales
+    Used channel visual Encoding Techniques
   <img src="Dashboard Design/3.png">
 
   ## 4. HeatMap for SubCategory
